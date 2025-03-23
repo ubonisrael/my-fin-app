@@ -40,8 +40,8 @@ This project makes use of at least **10 KendoReact Free components**, including:
 ## ⚙️ Installation & Setup
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/personal-finance-dashboard.git
-cd personal-finance-dashboard
+git clone https://github.com/ubonisrael/my-fin-app.git
+cd my-fin-app
 
 # Install dependencies
 npm install
